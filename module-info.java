@@ -1,12 +1,6 @@
 /**
- * 
+ * Quick library of demonstration applications.
  */
-/**
- * @author peter
- *
- */
-module ca.tvtrans.demo {
-	
-	requires ca.tvos.base;
-	
+module ca.tvos.demo {
+	requires ca.tvos.core;
 }
